@@ -28,15 +28,7 @@ Commands are summarized to show practical understanding of their functions and u
 ---
 
 ### 3. Bonus Task
-A link to the TryHackMe “HTTP in Detail” room is included as required for the optional extension part of the assignment.
 
 ---
 
-## Purpose of This Submission
-This repository serves as my completed IEEE task, demonstrating familiarity with:
-- Basic networking fundamentals  
-- Core Linux command-line operations  
-- Proper documentation and project organization  
-
-It is intended solely as the submitted assignment for joining IEEE.
 
