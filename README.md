@@ -1,58 +1,42 @@
 # IEEE Task
 
-## IP Address
-An IP address is used to uniquely identify your device on a network so that data can reach you correctly.  
-It is also used for servers in data centers so you can access a website by knowing its IP address.
-
-Since remembering IP addresses is difficult, domain names are used instead. This is where DNS helps.
-
-## DNS
-DNS works like a phonebook. When you enter a domain name, the browser sends a request to a DNS server to get the corresponding IP address.
+This repository contains my submission for the IEEE onboarding task.  
+The work includes a summarized explanation of key networking concepts and a structured list of essential Linux commands, divided according to the task requirements.
 
 ---
 
-## Linux Core Commands (Part 1)
+## Task Contents
 
-- ls — List files and directories  
-- cd — Change current directory  
-- pwd — Print current directory  
-- cp — Copy files  
-- mv — Move or rename files  
-- rmdir — Remove empty directory  
-- rm — Remove files or non-empty directories  
-- mkdir — Create directory  
-- cat — Print file content  
+### 1. Networking Concepts
+The main document includes:
+- A clear explanation of the purpose of **IP addresses**, focusing on how devices are uniquely identified within a network.
+- An overview of **DNS** and how it translates domain names into IP addresses to enable easier access to websites.
+
+These sections demonstrate understanding of the fundamental mechanisms behind internet communication.
 
 ---
 
-## Linux Core Commands (Part 2)
+### 2. Linux Core Commands
+The task required organizing Linux commands into three groups.  
+The submitted document includes:
+- Basic navigation and file-handling commands  
+- Text search and system inspection commands  
+- Utility, networking, and user-related commands  
 
-- grep — Search for text in a file  
-- head — Display the first 10 lines of a file  
-- tail — Display the last 10 lines of a file  
-- less — Display file content one screen at a time  
-- ps — Display list of running processes  
-- lsof — Display list of open files  
-- netstat — Display network connections  
-- ifconfig — Display network information  
-- sort — Sort content of a file  
+Commands are summarized to show practical understanding of their functions and usage.
 
 ---
 
-## Linux Commands (Part 3)
-
-- uniq — Remove duplicate lines (sorted input)  
-- stat — Display detailed file information  
-- ping — Test network connectivity  
-- whoami — Display current user  
-- passwd — Change current user’s password  
-- kill — Terminate a process  
-- ln — Create a link file  
-- find — Search for files  
-- nano — Text editor  
+### 3. Bonus Task
+A link to the TryHackMe “HTTP in Detail” room is included as required for the optional extension part of the assignment.
 
 ---
 
-## Bonus Task
-TryHackMe Room:  
-https://tryhackme.com/room/httpindetail
+## Purpose of This Submission
+This repository serves as my completed IEEE task, demonstrating familiarity with:
+- Basic networking fundamentals  
+- Core Linux command-line operations  
+- Proper documentation and project organization  
+
+It is intended solely as the submitted assignment for joining IEEE.
+
